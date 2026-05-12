@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![레이더 차트](https://aline.team/git-profile?type=radar&theme=dark&lang=ko&sharedCode=5d2ebeb2-6bb5-49b7-b68f-39abe95af214)](https://aline.team)
+
+[![작업량](https://aline.team/git-profile?type=work-volume&theme=dark&lang=ko&sharedCode=5d2ebeb2-6bb5-49b7-b68f-39abe95af214)](https://aline.team)
