@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Java](https://dev.aline.team/git-profile?type=tech-stack&theme=dark&lang=ko&sharedCode=d3bbee5d-84fc-422b-97fc-a021db3f7f66&name=Java)](https://dev.aline.team)
+[![Spring Boot](https://dev.aline.team/git-profile?type=tech-stack&theme=dark&lang=ko&sharedCode=d3bbee5d-84fc-422b-97fc-a021db3f7f66&name=Spring+Boot)](https://dev.aline.team)
+
 [![캐릭터](https://aline.team/git-profile?type=character&theme=dark&lang=ko&sharedCode=5d2ebeb2-6bb5-49b7-b68f-39abe95af214)](https://aline.team)
 
 
