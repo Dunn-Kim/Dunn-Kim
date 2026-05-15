@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![커밋 스타일](https://aline.team/git-profile?type=COMMIT_STYLE&theme=dark&lang=ko&sharedCode=5d2ebeb2-6bb5-49b7-b68f-39abe95af214)](https://aline.team)
